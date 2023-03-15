@@ -1,10 +1,5 @@
-# ads projeto
+# leandro
 
----
-
-## experiencia
-
-- aluno unimar
 
 
 
